@@ -1,1 +1,0 @@
-dot:\. star:\* ws:\s word:\w paren:\(\) hyphen:\-
