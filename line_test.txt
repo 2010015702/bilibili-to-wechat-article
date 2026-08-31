@@ -1,0 +1,1 @@
+re.sub(r'<img src="(\.\./images/[^"]+)"', repl, body)
